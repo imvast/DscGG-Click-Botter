@@ -1,7 +1,7 @@
 <div align="center">
   <kbd>
   <a href="https://github.com/imvast/DscGG-Click-Botter">
-    <img src="https://cdn.upload.systems/uploads/j25Itvtz.png" alt="Logo" width="1000" height="350">
+    <img src="https://cdn.upload.systems/uploads/j25Itvtz.png" alt="Logo" width="900" height="500">
   </a>
   </kbd>
   
@@ -62,5 +62,5 @@ v0.0.1 ⋮ 12/11/2022
 <p align="center">
   <img src="https://img.shields.io/github/license/imvast/DscGG-Click-Botter.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=IOTA"/>
   <img src="https://img.shields.io/github/stars/imvast/DscGG-Click-Botter.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=IOTA"/>
-  <img src="https://img.shields.io/github/languages/top/imvast/DscGG-Click-Botter.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=go"/>
+  <img src="https://img.shields.io/github/languages/top/imvast/DscGG-Click-Botter.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=python"/>
 </p>
