@@ -1,7 +1,7 @@
 <div align="center">
   <kbd>
   <a href="https://github.com/imvast/DscGG-Click-Botter">
-    <img src="https://cdn.upload.systems/uploads/j25Itvtz.png" alt="Logo" width="900" height="500">
+    <img src="https://cdn.upload.systems/uploads/n0MVIwPa.png" alt="Logo" width="800" height="500">
   </a>
   </kbd>
   
